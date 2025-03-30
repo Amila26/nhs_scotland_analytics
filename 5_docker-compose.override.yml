@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  webserver:
+    volumes:
+      - /mnt/d/airflow/airflow_logs:/opt/airflow/windows-docs
+      - /root/my-airflow-project/myscript:/usr/local/airflow/myscript
+  scheduler:
+    volumes:
+      - /mnt/d/airflow/airflow_logs:/opt/airflow/windows-docs
+      - /root/my-airflow-project/myscript:/usr/local/airflow/myscript
+  
