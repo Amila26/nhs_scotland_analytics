@@ -28,3 +28,13 @@ This project automates an end-to-end ETL pipeline using Apache Airflow to extrac
 ## Deployment 
 ![Deployment](Deployment.JPG)
 
+## Data Model
+![DataModel](14_data_model.JPG)
+
+## Functions and DAGs scripts
+| function       | Link                                         |
+| -------------- | -------------------------------------------- | 
+| DAGs           | [nhs_api_task](9_nhs_api_task.py)            | 
+| API request    | [carn_API_data](6_carn_API_data.py)          | 
+| Credentials    | [my_cred](7_my_cred.py)                      |         
+| PBI REST API   | [pbi_rest_api](8_pbi_rest_api.py)            |
