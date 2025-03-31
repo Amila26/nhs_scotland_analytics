@@ -23,7 +23,7 @@ This project automates the extraction, transformation, and loading (ETL) of NHS 
 
 ## ETL workflow Diagram
 ![Directed Asyclic Graph](16_ETL_DAG_Graph.JPG)
-This project automates an end-to-end ETL pipeline using Apache Airflow to extract, transform, and load NHS data into Power BI. The DAG (nhs_api_data) fetches data from an API with pagination support, ensuring full data retrieval. It validates the file size before processing—if the file doesn't meet the threshold, downstream tasks are skipped using AirflowSkipException. The data is then transformed with Pandas, reshaped, and prepared for analysis. The pipeline updates Power BI datasets by sending a real-time timestamp and triggering a dataset refresh with secure authentication via MSAL. Logs are generated at each stage, ensuring full traceability, transparency, and error tracking. This approach provides a scalable, efficient pipeline for near real-time insights
+This project automates an end-to-end ETL pipeline using Apache Airflow to extract, transform, and load NHS data into Power BI. The DAG (nhs_api_data) fetches data from an API with pagination support, ensuring full data retrieval. It validates the file size before processing; if the file doesn't meet the threshold, downstream tasks are skipped using AirflowSkipException. The data is then transformed with Pandas, reshaped, and prepared for analysis. The pipeline updates Power BI datasets by sending a real-time timestamp and triggering a dataset refresh with secure authentication via MSAL. Logs are generated at each stage, ensuring full traceability, transparency, and error tracking. This approach provides a scalable, efficient pipeline for near real-time insights
 
 ## Deployment 
 ![Deployment](Deployment.JPG)
