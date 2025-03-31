@@ -140,14 +140,8 @@ def create_log_file(msg):
 if __name__ =='__main__':
     save_data()
     data_transform()
-    # create_log_file("ETL Started")
-    # request_fn()
+    create_log_file("ETL Started")
+    request_fn()
 
 
-# Extract Logic as follows 
-# define data_lits [] empty list withing the function request
-# made first request 
-# extarct data,links,paginate data pass function 
-# mutate data_list and return to save function 
-# Save if main in physical file but if in airflow it should in mounted file
-# draw backs if not pagiante some time can be error
+
