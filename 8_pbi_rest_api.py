@@ -5,8 +5,8 @@ from myscript.my_cred import username,password
 from myscript.carn_API_data import create_log_file
 def get_token():
 
-    app_id = "8841de87-42ea-4f8d-baca-ebb3d4b12b9e"
-    tenant_id = "91f0e2c8-bb29-4788-ba88-85ed017ee3b3"
+    app_id = "add_your_app_id_from_Azure_app_registration"
+    tenant_id = "add_your_tenat_id_from_Azure_app_registration"
 
 
     authority_url = 'https://login.microsoftonline.com/' + tenant_id
