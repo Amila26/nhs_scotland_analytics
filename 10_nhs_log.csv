@@ -1,0 +1,105 @@
+2025-03-29T15:25:06 → request_succesful ->200
+2025-03-29T15:25:06 → response_keysdict_keys(['help', 'success', 'result'])
+2025-03-29T15:25:06 → response_resultdict_keys(['include_total', 'resource_id', 'fields', 'records_format', 'records', 'limit', '_links', 'total'])
+2025-03-29T15:25:06 → This is data list50
+2025-03-29T15:25:07 → append_next_page50
+2025-03-29T15:25:08 → append_next_page17
+2025-03-29T15:25:09 → Paginate_finished /Total Records3
+2025-03-29T15:25:09 → save and update data in repository
+2025-03-29T15:25:11 → Data Transformd
+2025-03-29T15:25:13 → BearerPBI token status
+2025-03-29T15:25:43 → BearerPBI token status
+2025-03-29T15:25:44 → refresh status is 429 and reason {'Cache-Control': 'no-store, must-revalidate, no-cache', 'Pragma': 'no-cache', 'Content-Length': '142', 'Content-Type': 'application/json; charset=utf-8', 'Retry-After': '120', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'RequestId': '3cfb02a8-a23b-4397-acf5-e17bd5f68aeb', 'request-redirected': 'true', 'home-cluster-uri': 'https://wabi-uk-south-c-primary-redirect.analysis.windows.net/', 'Date': 'Sat, 29 Mar 2025 15:25:43 GMT'}
+2025-03-29T15:25:44 → ...............ETL finished.............
+
+
+2025-03-29T15:31:40 → request_succesful ->200
+2025-03-29T15:31:40 → response_keysdict_keys(['help', 'success', 'result'])
+2025-03-29T15:31:40 → response_resultdict_keys(['include_total', 'resource_id', 'fields', 'records_format', 'records', 'limit', '_links', 'total'])
+2025-03-29T15:31:40 → This is data list50
+2025-03-29T15:31:41 → append_next_page50
+2025-03-29T15:31:42 → append_next_page17
+2025-03-29T15:31:42 → Paginate_finished /Total Records3
+2025-03-29T15:31:42 → save and update data in repository
+2025-03-29T15:31:45 → Data Transformd
+2025-03-29T15:31:47 → BearerPBI token status
+2025-03-29T15:32:17 → BearerPBI token status
+2025-03-29T15:32:18 → refresh status is 429 and reason {'Cache-Control': 'no-store, must-revalidate, no-cache', 'Pragma': 'no-cache', 'Content-Length': '142', 'Content-Type': 'application/json; charset=utf-8', 'Retry-After': '120', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'RequestId': 'aba51e3c-8aba-43bb-836e-d7149977b381', 'request-redirected': 'true', 'home-cluster-uri': 'https://wabi-uk-south-c-primary-redirect.analysis.windows.net/', 'Date': 'Sat, 29 Mar 2025 15:32:17 GMT'}
+2025-03-29T15:32:18 → ...............ETL finished.............
+
+
+2025-03-29T15:34:36 → request_succesful ->200
+2025-03-29T15:34:36 → response_keysdict_keys(['help', 'success', 'result'])
+2025-03-29T15:34:36 → response_resultdict_keys(['include_total', 'resource_id', 'fields', 'records_format', 'records', 'limit', '_links', 'total'])
+2025-03-29T15:34:36 → This is data list50
+2025-03-29T15:34:38 → append_next_page50
+2025-03-29T15:34:39 → append_next_page17
+2025-03-29T15:34:40 → Paginate_finished /Total Records3
+2025-03-29T15:34:40 → save and update data in repository
+2025-03-29T15:34:42 → Data Transformd
+2025-03-29T15:34:44 → BearerPBI token status
+2025-03-29T15:35:14 → BearerPBI token status
+2025-03-29T15:35:15 → refresh status is 429 and reason {'Cache-Control': 'no-store, must-revalidate, no-cache', 'Pragma': 'no-cache', 'Content-Length': '142', 'Content-Type': 'application/json; charset=utf-8', 'Retry-After': '120', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'RequestId': '1f4642d0-c237-472b-a202-e76d08a9f3c7', 'request-redirected': 'true', 'home-cluster-uri': 'https://wabi-uk-south-c-primary-redirect.analysis.windows.net/', 'Date': 'Sat, 29 Mar 2025 15:35:14 GMT'}
+2025-03-29T15:35:15 → ...............ETL finished.............
+
+
+2025-03-29T15:37:51 → request_succesful ->200
+2025-03-29T15:37:51 → response_keysdict_keys(['help', 'success', 'result'])
+2025-03-29T15:37:51 → response_resultdict_keys(['include_total', 'resource_id', 'fields', 'records_format', 'records', 'limit', '_links', 'total'])
+2025-03-29T15:37:51 → This is data list50
+2025-03-29T15:37:52 → append_next_page50
+2025-03-29T15:37:52 → append_next_page17
+2025-03-29T15:37:53 → Paginate_finished /Total Records3
+2025-03-29T15:37:53 → save and update data in repository
+2025-03-29T15:37:56 → Data Transformd
+2025-03-29T15:37:57 → BearerPBI token status
+2025-03-29T15:38:28 → BearerPBI token status
+2025-03-29T15:38:29 → refresh status is 429 and reason {'Cache-Control': 'no-store, must-revalidate, no-cache', 'Pragma': 'no-cache', 'Content-Length': '142', 'Content-Type': 'application/json; charset=utf-8', 'Retry-After': '120', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'RequestId': 'cd7222f3-2149-40b3-abdc-caf39d2f2342', 'request-redirected': 'true', 'home-cluster-uri': 'https://wabi-uk-south-c-primary-redirect.analysis.windows.net/', 'Date': 'Sat, 29 Mar 2025 15:38:28 GMT'}
+2025-03-29T15:38:29 → ...............ETL finished.............
+
+
+2025-03-29T20:46:26 → request_succesful ->200
+2025-03-29T20:46:26 → response_keysdict_keys(['help', 'success', 'result'])
+2025-03-29T20:46:26 → response_resultdict_keys(['include_total', 'resource_id', 'fields', 'records_format', 'records', 'limit', '_links', 'total'])
+2025-03-29T20:46:26 → This is data list50
+2025-03-29T20:46:36 → append_next_page50
+2025-03-29T20:46:51 → append_next_page17
+2025-03-29T20:46:52 → Paginate_finished /Total Records3
+2025-03-29T20:46:52 → save and update data in repository
+2025-03-29T20:46:54 → Data Transformed and saved
+2025-03-29T20:46:56 → BearerPBI token status
+2025-03-29T20:47:26 → BearerPBI token status
+2025-03-29T20:47:27 → refresh status is 202 and reason {'Cache-Control': 'no-store, must-revalidate, no-cache', 'Pragma': 'no-cache', 'Content-Length': '0', 'Content-Type': 'application/octet-stream', 'Content-Encoding': 'gzip', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'RequestId': 'e0ed35f5-4125-4873-95d4-a58a4c447fce', 'Access-Control-Expose-Headers': 'RequestId', 'request-redirected': 'true', 'home-cluster-uri': 'https://wabi-uk-south-c-primary-redirect.analysis.windows.net/', 'Date': 'Sat, 29 Mar 2025 20:47:27 GMT'}
+2025-03-29T20:47:27 → ...............ETL finished.............
+
+
+2025-03-29T21:19:48 → request_succesful ->200
+2025-03-29T21:19:48 → response_keysdict_keys(['help', 'success', 'result'])
+2025-03-29T21:19:48 → response_resultdict_keys(['include_total', 'resource_id', 'fields', 'records_format', 'records', 'limit', '_links', 'total'])
+2025-03-29T21:19:48 → This is data list50
+2025-03-29T21:19:49 → append_next_page50
+2025-03-29T21:19:50 → append_next_page17
+2025-03-29T21:19:51 → Paginate_finished /Total Records3
+2025-03-29T21:19:51 → save and update data in repository
+2025-03-29T21:19:54 → Data Transformed and saved
+2025-03-29T21:19:56 → BearerPBI token status
+2025-03-29T21:20:29 → BearerPBI token status
+2025-03-29T21:20:29 → refresh status is 202 and reason {'Cache-Control': 'no-store, must-revalidate, no-cache', 'Pragma': 'no-cache', 'Content-Length': '0', 'Content-Type': 'application/octet-stream', 'Content-Encoding': 'gzip', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'RequestId': '4810cc46-5a4b-4835-8763-647e10c5e526', 'Access-Control-Expose-Headers': 'RequestId', 'request-redirected': 'true', 'home-cluster-uri': 'https://wabi-uk-south-c-primary-redirect.analysis.windows.net/', 'Date': 'Sat, 29 Mar 2025 21:20:28 GMT'}
+2025-03-29T21:20:29 → ...............ETL finished.............
+
+
+2025-03-30T10:45:11 → request_succesful ->200
+2025-03-30T10:45:11 → response_keysdict_keys(['help', 'success', 'result'])
+2025-03-30T10:45:11 → response_resultdict_keys(['include_total', 'resource_id', 'fields', 'records_format', 'records', 'limit', '_links', 'total'])
+2025-03-30T10:45:11 → This is data list50
+2025-03-30T10:45:12 → append_next_page50
+2025-03-30T10:45:13 → append_next_page17
+2025-03-30T10:45:14 → Paginate_finished /Total Records3
+2025-03-30T10:45:14 → save and update data in repository
+2025-03-30T10:45:19 → Data Transformed and saved
+2025-03-30T10:45:20 → BearerPBI token status
+2025-03-30T10:45:52 → BearerPBI token status
+2025-03-30T10:45:53 → refresh status is 202 and reason {'Cache-Control': 'no-store, must-revalidate, no-cache', 'Pragma': 'no-cache', 'Content-Length': '0', 'Content-Type': 'application/octet-stream', 'Content-Encoding': 'gzip', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'X-Frame-Options': 'deny', 'X-Content-Type-Options': 'nosniff', 'RequestId': 'f5de1efc-cbc3-4d84-a213-595f61017030', 'Access-Control-Expose-Headers': 'RequestId', 'request-redirected': 'true', 'home-cluster-uri': 'https://wabi-uk-south-c-primary-redirect.analysis.windows.net/', 'Date': 'Sun, 30 Mar 2025 10:45:52 GMT'}
+2025-03-30T10:45:53 → ...............ETL finished.............
+
+
