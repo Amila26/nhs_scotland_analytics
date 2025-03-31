@@ -27,6 +27,9 @@ This project automates an end-to-end ETL pipeline using Apache Airflow to extrac
 
 ## Deployment 
 ![Deployment](Deployment.JPG)
+###  Additional setup
+- Mount voulume configurations:[docker_file](5_docker-compose.override.yml)
+- Logfile:[loghistory](10_nhs_log.csv)
 
 ## Data Model
 ![DataModel](14_data_model.JPG)
