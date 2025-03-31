@@ -38,3 +38,6 @@ This project automates an end-to-end ETL pipeline using Apache Airflow to extrac
 | API request    | [carn_API_data](6_carn_API_data.py)          | 
 | Credentials    | [my_cred](7_my_cred.py)                      |         
 | PBI REST API   | [pbi_rest_api](8_pbi_rest_api.py)            |
+
+## Interactive Dashboard
+[Report Link](https://lnkd.in/ej-HYSdr)
